@@ -1,8 +1,8 @@
-data_path= '/Users/Michele/Desktop/4D_HSI/ToF/';
+data_path= 'xxx';
 show = 0;
 calibration = 0;
 
-data_name=[data_path,'test2006_range_gray.tiff'];
+data_name=[data_path,'xxx.tiff'];
 
 depth_image = double(imread (data_name));
 
